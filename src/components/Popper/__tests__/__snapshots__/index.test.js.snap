@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Popper should render reference element and children unique possible usage outside real dom 1`] = `
+.c0 {
+  visibility: hidden;
+  pointer-events: none;
+  opacity: 0;
+  -webkit-transition: visibility 0.1s,opacity ease 0.3s;
+  transition: visibility 0.1s,opacity ease 0.3s;
+  z-index: 10;
+}
+
+.c0[data-Popper-reference-hidden='true'] {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+<div
+  class="c0"
+  data-popper-escaped="true"
+  data-popper-placement="bottom"
+  data-popper-reference-hidden="true"
+  data-testid="Popper"
+  style="position: absolute; left: 0px; top: 0px; transform: translate(0px, 10px);"
+>
+  test content
+</div>
+`;

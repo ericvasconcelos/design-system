@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Search component when do not have any valid option 1`] = `
+.c4 {
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/search.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/search.svg);
+  background-color: #003FF2;
+  background-image: none;
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  -webkit-mask-position-x: 0;
+  mask-position-x: 0;
+  -webkit-mask-size: 24px;
+  mask-size: 24px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.c6 {
+  opacity: 1;
+}
+
+.c3 {
+  border-radius: 8px;
+  border: 1px solid rgba(51,51,51,0.1);
+  border-color: #FFFFFF;
+  background: #FFFFFF;
+  color: #69788C;
+  height: 56px;
+  padding: 12px 0 0 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.c3 ~ .c5 {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
+
+.c3:focus {
+  outline: none !important;
+  border: 1px solid #8DC6FF;
+  box-shadow: 0 0 0 30px #FFFFFF inset, 0 0 0 4px #FFFFFF;
+  box-shadow: 0px 0px 0px 3px #8DC6FF29;
+}
+
+.c3::-webkit-input-placeholder {
+  color: transparent;
+}
+
+.c3::-moz-placeholder {
+  color: transparent;
+}
+
+.c3:-ms-input-placeholder {
+  color: transparent;
+}
+
+.c3::placeholder {
+  color: transparent;
+}
+
+.c3 [type="search"]::-webkit-search-decoration,
+.c3 [type="search"]::-webkit-search-cancel-button,
+.c3 [type="search"]::-webkit-search-results-button,
+.c3 [type="search"]::-webkit-search-results-decoration {
+  -webkit-appearance: none;
+}
+
+.c2 {
+  font-size: 0.5rem;
+  position: absolute;
+  left: 16px;
+  top: 8px;
+  pointer-events: none;
+  color: #A6B5BB;
+  -webkit-transition: 0.3s ease all;
+  transition: 0.3s ease all;
+  font-weight: bolder;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.c0 {
+  position: relative;
+  max-width: 720px;
+  margin: 16px 0;
+  line-height: 16px;
+}
+
+.c0:focus-within .c1 {
+  top: 8px;
+  font-weight: bolder;
+  color: #003FF2;
+  font-size: 8px;
+  text-transform: uppercase;
+}
+
+<div
+  class="c0"
+  data-testid="Search"
+>
+  <label
+    class="c1 c2"
+    for="id"
+  >
+    search
+  </label>
+  <input
+    aria-label="search component"
+    autocomplete="off"
+    class="c3"
+    id="id"
+    name="search"
+    value="9"
+  />
+  <div
+    aria-hidden="true"
+    aria-label=""
+    class="c4 c5 c6"
+    data-testid="Icon"
+  />
+</div>
+`;
+
+exports[`Should render Search component when has default props 1`] = `
+.c4 {
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/search.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/search.svg);
+  background-color: #A6B5BB;
+  background-image: none;
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  -webkit-mask-position-x: 0;
+  mask-position-x: 0;
+  -webkit-mask-size: 24px;
+  mask-size: 24px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.c6 {
+  opacity: 1;
+}
+
+.c3 {
+  border-radius: 8px;
+  border: 1px solid rgba(51,51,51,0.1);
+  border-color: #FFFFFF;
+  background: #FFFFFF;
+  color: #69788C;
+  height: 56px;
+  padding: 12px 0 0 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.c3 ~ .c5 {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
+
+.c3:focus {
+  outline: none !important;
+  border: 1px solid #8DC6FF;
+  box-shadow: 0 0 0 30px #FFFFFF inset, 0 0 0 4px #FFFFFF;
+  box-shadow: 0px 0px 0px 3px #8DC6FF29;
+}
+
+.c3::-webkit-input-placeholder {
+  color: transparent;
+}
+
+.c3::-moz-placeholder {
+  color: transparent;
+}
+
+.c3:-ms-input-placeholder {
+  color: transparent;
+}
+
+.c3::placeholder {
+  color: transparent;
+}
+
+.c3 [type="search"]::-webkit-search-decoration,
+.c3 [type="search"]::-webkit-search-cancel-button,
+.c3 [type="search"]::-webkit-search-results-button,
+.c3 [type="search"]::-webkit-search-results-decoration {
+  -webkit-appearance: none;
+}
+
+.c2 {
+  font-size: 0.5rem;
+  position: absolute;
+  left: 16px;
+  top: 8px;
+  pointer-events: none;
+  color: #A6B5BB;
+  -webkit-transition: 0.3s ease all;
+  transition: 0.3s ease all;
+  font-weight: bolder;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.c0 {
+  position: relative;
+  max-width: 720px;
+  margin: 16px 0;
+  line-height: 16px;
+}
+
+.c0:focus-within .c1 {
+  top: 8px;
+  font-weight: bolder;
+  color: #003FF2;
+  font-size: 8px;
+  text-transform: uppercase;
+}
+
+<div
+  class="c0"
+  data-testid="Search"
+>
+  <label
+    class="c1 c2"
+    for="id"
+  >
+    search
+  </label>
+  <input
+    aria-label="search component"
+    autocomplete="off"
+    class="c3"
+    id="id"
+    name="search"
+    value="value1"
+  />
+  <div
+    aria-hidden="true"
+    aria-label=""
+    class="c4 c5 c6"
+    data-testid="Icon"
+  />
+</div>
+`;

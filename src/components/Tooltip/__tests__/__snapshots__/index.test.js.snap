@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Tooltip component when has default props 1`] = `
+.c1 {
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/user.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/user.svg);
+  background-color: #A6B5BB;
+  background-image: none;
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  -webkit-mask-position-x: 0;
+  mask-position-x: 0;
+  -webkit-mask-size: 24px;
+  mask-size: 24px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.c0 {
+  display: inline-block;
+}
+
+<div
+  class="c0"
+  data-testid="TooltipReference"
+>
+  <div
+    aria-hidden="true"
+    aria-label=""
+    class="c1"
+    data-testid="Icon"
+  />
+</div>
+`;
+
+exports[`Should render Tooltip component when receiving external functions 1`] = `
+.c1 {
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/user.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/user.svg);
+  background-color: #A6B5BB;
+  background-image: none;
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  -webkit-mask-position-x: 0;
+  mask-position-x: 0;
+  -webkit-mask-size: 24px;
+  mask-size: 24px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.c0 {
+  display: inline-block;
+}
+
+<div
+  class="c0"
+  data-testid="TooltipReference"
+>
+  <div
+    aria-hidden="true"
+    aria-label=""
+    class="c1"
+    data-testid="Icon"
+  />
+</div>
+`;

@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "silvenon.mdx",
+    "xyc.vscode-mdx-preview",
+    "msjsdiag.debugger-for-chrome",
+    "mikestead.dotenv",
+    "ms-vscode-remote.remote-wsl",
+    "ms-azuretools.vscode-docker",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "jpoissonnier.vscode-styled-components",
+    "jbockle.jbockle-format-files"
+  ]
+}

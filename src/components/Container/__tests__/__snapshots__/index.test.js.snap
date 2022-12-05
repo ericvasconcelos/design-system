@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the component correctly when has basic usage 1`] = `
+.c0 {
+  margin: auto;
+  width: 100%;
+}
+
+@media (min-width:576px) {
+  .c0 {
+    width: 540px;
+  }
+}
+
+@media (min-width:768px) {
+  .c0 {
+    width: 720px;
+  }
+}
+
+@media (min-width:992px) {
+  .c0 {
+    width: 960px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    width: 1140px;
+  }
+}
+
+@media (min-width:1400px) {
+  .c0 {
+    width: 1320px;
+  }
+}
+
+<div
+  class="c0"
+  data-testid="Container"
+>
+  <div
+    data-testid="content"
+  >
+    Consectetur do ipsum et voluptate ad nisi nisi sint.
+  </div>
+</div>
+`;

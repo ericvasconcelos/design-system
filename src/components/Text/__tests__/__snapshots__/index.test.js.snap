@@ -1,0 +1,571 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 0.5rem;
+font-weight: 500;
+line-height: 1rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "label", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 0.5rem;
+font-weight: 500;
+line-height: 1rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "tag", "tag": "div"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<div
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</div>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 0.5rem;
+font-weight: 500;
+line-height: 1rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "tag", "tag": "p"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<p
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</p>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 0.5rem;
+font-weight: 500;
+line-height: 1rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "tag", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 0.5rem;
+font-weight: 500;
+line-height: 1rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "tag", "tag": undefined} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<p
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</p>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 0.75rem;
+font-weight: 500;
+line-height: 1.5rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "button", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 0.75rem;
+font-weight: 500;
+line-height: 1.5rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "link", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 0.625rem;
+font-weight: 500;
+line-height: 1rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "buttonSm", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 0.625rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 0.8125rem;
+font-weight: 400;
+line-height: 1.056rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "body3", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 0.8125rem;
+  font-weight: 400;
+  line-height: 1.056rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 0.9375rem;
+font-weight: 400;
+line-height: 1.219rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "body2", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 1.0625rem;
+font-weight: 400;
+line-height: 1.381rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "body1", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 1.0625rem;
+font-weight: 400;
+line-height: 1.381rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "input", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 1.0625rem;
+font-weight: 500;
+line-height: 1.381rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "body1Medium", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 1.0625rem;
+  font-weight: 500;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 1.5rem;
+font-weight: 500;
+line-height: 1.8rem;
+text-decoration: none;
+letter-spacing: -0.02rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "title3", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.8rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: -0.02rem;
+  -moz-letter-spacing: -0.02rem;
+  -ms-letter-spacing: -0.02rem;
+  letter-spacing: -0.02rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 1.1875rem;
+font-weight: 400;
+line-height: 1.544rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "subtitle", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 1.1875rem;
+  font-weight: 400;
+  line-height: 1.544rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 2.25rem;
+font-weight: 500;
+line-height: 2.475rem;
+text-decoration: none;
+letter-spacing: -0.02rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "title2", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 2.25rem;
+  font-weight: 500;
+  line-height: 2.475rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: -0.02rem;
+  -moz-letter-spacing: -0.02rem;
+  -ms-letter-spacing: -0.02rem;
+  letter-spacing: -0.02rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 3.625rem;
+font-weight: 500;
+line-height: 4rem;
+text-decoration: none;
+letter-spacing: -0.02rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "display", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 3.625rem;
+  font-weight: 500;
+  line-height: 4rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: -0.02rem;
+  -moz-letter-spacing: -0.02rem;
+  -ms-letter-spacing: -0.02rem;
+  letter-spacing: -0.02rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #003FF2;
+font-size: 3rem;
+font-weight: 500;
+line-height: 3.3rem;
+text-decoration: none;
+letter-spacing: -0.02rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "lightBlueCash300", "styleType": "title1", "tag": "span"} 1`] = `
+.c0 {
+  color: #003FF2;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 3.3rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: -0.02rem;
+  -moz-letter-spacing: -0.02rem;
+  -ms-letter-spacing: -0.02rem;
+  letter-spacing: -0.02rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<span
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</span>
+`;
+
+exports[`testing Text component when should render the component correctly with {"children": "Ex ullamco aute est veniam sit.", "expectedCss": "color: #A6B5BB;
+font-size: 0.5rem;
+font-weight: 500;
+line-height: 1rem;
+text-decoration: none;
+letter-spacing: 0rem;
+font-family: 'DM Sans',sans-serif;
+", "styleColor": "darkBlueCash100", "styleType": "tag", "tag": undefined} 1`] = `
+.c0 {
+  color: #A6B5BB;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<p
+  class="c0"
+  data-testid="Text"
+>
+  Ex ullamco aute est veniam sit.
+</p>
+`;

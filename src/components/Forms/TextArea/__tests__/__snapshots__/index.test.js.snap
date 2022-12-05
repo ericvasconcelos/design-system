@@ -1,0 +1,370 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render TextAreaBasic when has default props 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  position: relative;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  box-sizing: content-box;
+  width: calc(100% - 2 * 1rem);
+  border-radius: 8px;
+  padding: 0.625rem 0.9375rem;
+  background-color: #FFFFFF;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  box-shadow: 0px 0px 0px 3px transparent;
+  border: 1px solid;
+  border-color: #A6B5BB;
+}
+
+.c2 {
+  color: #69788C;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.056rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  top: unset;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  line-height: 1.0625rem;
+  text-align: left;
+}
+
+.c4 {
+  color: #00224B;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  display: block;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  line-height: 1.375rem;
+  text-align: left;
+}
+
+.c4:-webkit-autofill,
+.c4:-internal-autofill-selected {
+  -webkit-animation-name: onAutoFillStart;
+  animation-name: onAutoFillStart;
+  -webkit-text-fill-color: #455A73;
+  box-shadow: inset 0 0 0 100em #FFFFFF;
+}
+
+.c4:not(:-webkit-autofill) {
+  -webkit-animation-name: onAutoFillCancel;
+  animation-name: onAutoFillCancel;
+}
+
+.c3 {
+  color: #455A73;
+}
+
+.c1 {
+  width: calc(100% - 2 * 1.5rem);
+  padding: 1.5rem;
+  height: auto;
+}
+
+.c5 {
+  height: 6rem;
+  min-height: 6rem;
+  width: 100%;
+  overflow: auto;
+  padding: 0;
+}
+
+<div
+  class="c0 c1"
+  data-testid="TextAreaBasic"
+  for="testId"
+>
+  <span
+    class="c2 c3"
+    id="labeltestId"
+  >
+    some label here
+  </span>
+  <span
+    aria-describedby="infoMessagetestId"
+    aria-labelledby="testId"
+    aria-multiline="true"
+    class="c4 c5"
+    contenteditable="true"
+    id="testId"
+    name="testName"
+    role="textbox"
+    rows="3"
+    value=""
+  />
+</div>
+`;
+
+exports[`Should render TextAreaBasic when has default props using Formik 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  position: relative;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  box-sizing: content-box;
+  width: calc(100% - 2 * 1rem);
+  border-radius: 8px;
+  padding: 0.625rem 0.9375rem;
+  background-color: #FFFFFF;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  box-shadow: 0px 0px 0px 3px transparent;
+  border: 1px solid;
+  border-color: #A6B5BB;
+}
+
+.c2 {
+  color: #69788C;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.056rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  top: unset;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  line-height: 1.0625rem;
+  text-align: left;
+}
+
+.c4 {
+  color: #00224B;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  display: block;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  line-height: 1.375rem;
+  text-align: left;
+}
+
+.c4:-webkit-autofill,
+.c4:-internal-autofill-selected {
+  -webkit-animation-name: onAutoFillStart;
+  animation-name: onAutoFillStart;
+  -webkit-text-fill-color: #455A73;
+  box-shadow: inset 0 0 0 100em #FFFFFF;
+}
+
+.c4:not(:-webkit-autofill) {
+  -webkit-animation-name: onAutoFillCancel;
+  animation-name: onAutoFillCancel;
+}
+
+.c3 {
+  color: #455A73;
+}
+
+.c1 {
+  width: calc(100% - 2 * 1.5rem);
+  padding: 1.5rem;
+  height: auto;
+}
+
+.c5 {
+  height: 6rem;
+  min-height: 6rem;
+  width: 100%;
+  overflow: auto;
+  padding: 0;
+}
+
+<div
+  class="c0 c1"
+  data-testid="TextAreaBasic"
+  for="testId"
+>
+  <span
+    class="c2 c3"
+    id="labeltestId"
+  >
+    some label here
+  </span>
+  <span
+    aria-describedby="infoMessagetestId"
+    aria-labelledby="testId"
+    aria-multiline="true"
+    class="c4 c5"
+    contenteditable="true"
+    id="testId"
+    name="testName"
+    role="textbox"
+    rows="3"
+    value=""
+  />
+</div>
+`;
+
+exports[`Should render TextAreaBasic when has error status 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  position: relative;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  box-sizing: content-box;
+  width: calc(100% - 2 * 1rem);
+  border-radius: 8px;
+  padding: 0.625rem 0.9375rem;
+  background-color: #FFFFFF;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  box-shadow: 0px 0px 0px 3px #D93E3E3D;
+  border: 1px solid;
+  border-color: #D93E3EA3;
+}
+
+.c2 {
+  color: #B33333;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.056rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  top: unset;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  line-height: 1.0625rem;
+  text-align: left;
+}
+
+.c4 {
+  color: #00224B;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  display: block;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  line-height: 1.375rem;
+  text-align: left;
+}
+
+.c4:-webkit-autofill,
+.c4:-internal-autofill-selected {
+  -webkit-animation-name: onAutoFillStart;
+  animation-name: onAutoFillStart;
+  -webkit-text-fill-color: #455A73;
+  box-shadow: inset 0 0 0 100em #FFFFFF;
+}
+
+.c4:not(:-webkit-autofill) {
+  -webkit-animation-name: onAutoFillCancel;
+  animation-name: onAutoFillCancel;
+}
+
+.c3 {
+  color: #455A73;
+}
+
+.c1 {
+  width: calc(100% - 2 * 1.5rem);
+  padding: 1.5rem;
+  height: auto;
+}
+
+.c5 {
+  height: 6rem;
+  min-height: 6rem;
+  width: 100%;
+  overflow: auto;
+  padding: 0;
+}
+
+<div
+  class="c0 c1"
+  data-testid="TextAreaBasic"
+  for="testId"
+>
+  <span
+    class="c2 c3"
+    id="labeltestId"
+  >
+    some label here
+  </span>
+  <span
+    aria-describedby="infoMessagetestId"
+    aria-labelledby="testId"
+    aria-multiline="true"
+    class="c4 c5"
+    contenteditable="true"
+    id="testId"
+    name="testName"
+    role="textbox"
+    rows="3"
+    value=""
+  />
+</div>
+`;

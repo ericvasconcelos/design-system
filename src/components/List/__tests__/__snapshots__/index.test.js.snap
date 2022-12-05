@@ -1,0 +1,3061 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the list correctly when prop isOrdered is not set 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ul
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ul>
+`;
+
+exports[`should render the list correctly when prop isOrdered is set to false 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ul
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ul>
+`;
+
+exports[`should render the list correctly when prop isOrdered is set to true 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when prop isOrdered is set to true 2`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  flow: column 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  flow: column-reverse 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column-reverse;
+  -ms-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  flow: row 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  flow: row-reverse 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  gap: lg 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 1.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  gap: md 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 1rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  gap: sm 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  gap: xl 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 2rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  gap: xll 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 2.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  gap: xs 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.25rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  gap: xxl 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 3rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  gap: xxs 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  gap: xxxl 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 4rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: center 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: end 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: end;
+  -webkit-justify-content: end;
+  -ms-flex-pack: end;
+  justify-content: end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: flex-end 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: flex-start 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: inherit 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: inherit;
+  -webkit-justify-content: inherit;
+  -ms-flex-pack: inherit;
+  justify-content: inherit;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: initial 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: left 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: left;
+  -webkit-justify-content: left;
+  -ms-flex-pack: left;
+  justify-content: left;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: normal 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: normal;
+  -webkit-justify-content: normal;
+  -ms-flex-pack: normal;
+  justify-content: normal;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: right 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: right;
+  -webkit-justify-content: right;
+  -ms-flex-pack: right;
+  justify-content: right;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: safe center 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: safe center;
+  -webkit-justify-content: safe center;
+  -ms-flex-pack: safe center;
+  justify-content: safe center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: space-around 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: space-between 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: space-evenly 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: start 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: stretch 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: unsafe center 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: unsafe center;
+  -webkit-justify-content: unsafe center;
+  -ms-flex-pack: unsafe center;
+  justify-content: unsafe center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  justify: unset 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: unset;
+  -webkit-justify-content: unset;
+  -ms-flex-pack: unset;
+  justify-content: unset;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  listStyle: circle 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: circle;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  listStyle: decimal 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: decimal;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  listStyle: disc 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: disc;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  listStyle: lower-alpha 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: lower-alpha;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  listStyle: lower-roman 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: lower-roman;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  listStyle: none 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  listStyle: square 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: square;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  listStyle: upper-alpha 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: upper-alpha;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for  listStyle: upper-roman 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: upper-roman;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: center 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: end 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: end;
+  -webkit-box-align: end;
+  -ms-flex-align: end;
+  align-items: end;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: flex-end 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: flex-start 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: inherit 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: inherit;
+  -webkit-box-align: inherit;
+  -ms-flex-align: inherit;
+  align-items: inherit;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: initial 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: initial;
+  -webkit-box-align: initial;
+  -ms-flex-align: initial;
+  align-items: initial;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: left 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: left;
+  -webkit-box-align: left;
+  -ms-flex-align: left;
+  align-items: left;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: normal 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: normal;
+  -webkit-box-align: normal;
+  -ms-flex-align: normal;
+  align-items: normal;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: right 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: right;
+  -webkit-box-align: right;
+  -ms-flex-align: right;
+  align-items: right;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: safe center 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: safe center;
+  -webkit-box-align: safe center;
+  -ms-flex-align: safe center;
+  align-items: safe center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: space-around 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: space-around;
+  -webkit-box-align: space-around;
+  -ms-flex-align: space-around;
+  align-items: space-around;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: space-between 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: space-between;
+  -webkit-box-align: space-between;
+  -ms-flex-align: space-between;
+  align-items: space-between;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: space-evenly 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: space-evenly;
+  -webkit-box-align: space-evenly;
+  -ms-flex-align: space-evenly;
+  align-items: space-evenly;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: start 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: start;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: start;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: stretch 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: stretch;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: unsafe center 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: unsafe center;
+  -webkit-box-align: unsafe center;
+  -ms-flex-align: unsafe center;
+  align-items: unsafe center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;
+
+exports[`should render the list correctly when style for align: unset 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  list-style: none;
+  background: none;
+  gap: 0.5rem;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: unset;
+  -webkit-box-align: unset;
+  -ms-flex-align: unset;
+  align-items: unset;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<ol
+  class="c0"
+  data-testid="List"
+  id=""
+>
+  <li
+    class=""
+  >
+    itemOne
+  </li>
+  <li
+    class=""
+  >
+    itemTwo
+  </li>
+</ol>
+`;

@@ -1,0 +1,289 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Tag Component when styleType is danger 1`] = `
+.c0 {
+  display: inline-block;
+  color: none;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  text-transform: uppercase;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+  color: #FF4949;
+  background-color: #FF494929;
+}
+
+.c0 > span {
+  display: inline-block;
+}
+
+<div
+  class="c0"
+  data-testid="Tag"
+>
+  <span>
+    Tag
+  </span>
+  
+</div>
+`;
+
+exports[`Render Tag Component when styleType is darkBlue 1`] = `
+.c0 {
+  display: inline-block;
+  color: none;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  text-transform: uppercase;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+  color: #FFFFFF;
+  background-color: #00224B;
+}
+
+.c0 > span {
+  display: inline-block;
+}
+
+<div
+  class="c0"
+  data-testid="Tag"
+>
+  <span>
+    Tag
+  </span>
+  
+</div>
+`;
+
+exports[`Render Tag Component when styleType is default 1`] = `
+.c0 {
+  display: inline-block;
+  color: none;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  text-transform: uppercase;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+  color: #02279E;
+  background-color: #8DC6FF66;
+}
+
+.c0 > span {
+  display: inline-block;
+}
+
+<div
+  class="c0"
+  data-testid="Tag"
+>
+  <span>
+    Tag
+  </span>
+  
+</div>
+`;
+
+exports[`Render Tag Component when styleType is gold 1`] = `
+.c0 {
+  display: inline-block;
+  color: none;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  text-transform: uppercase;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+  color: #B37533;
+  background-color: #F7EBD2;
+}
+
+.c0 > span {
+  display: inline-block;
+}
+
+<div
+  class="c0"
+  data-testid="Tag"
+>
+  <span>
+    Tag
+  </span>
+  
+</div>
+`;
+
+exports[`Render Tag Component when styleType is gray 1`] = `
+.c0 {
+  display: inline-block;
+  color: none;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  text-transform: uppercase;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+  color: #455A73;
+  background-color: #455A7329;
+}
+
+.c0 > span {
+  display: inline-block;
+}
+
+<div
+  class="c0"
+  data-testid="Tag"
+>
+  <span>
+    Tag
+  </span>
+  
+</div>
+`;
+
+exports[`Render Tag Component when styleType is lightBlue 1`] = `
+.c0 {
+  display: inline-block;
+  color: none;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  text-transform: uppercase;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+  color: #003FF2;
+  background-color: #D7EBFF;
+}
+
+.c0 > span {
+  display: inline-block;
+}
+
+<div
+  class="c0"
+  data-testid="Tag"
+>
+  <span>
+    Tag
+  </span>
+  
+</div>
+`;
+
+exports[`Render Tag Component when styleType is warning 1`] = `
+.c0 {
+  display: inline-block;
+  color: none;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  text-transform: uppercase;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+  color: #FF7935;
+  background-color: #FF793529;
+}
+
+.c0 > span {
+  display: inline-block;
+}
+
+<div
+  class="c0"
+  data-testid="Tag"
+>
+  <span>
+    Tag
+  </span>
+  
+</div>
+`;
+
+exports[`Render Tag Component when styleType no style prop 1`] = `
+.c0 {
+  display: inline-block;
+  color: none;
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  text-transform: uppercase;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+  color: #02279E;
+  background-color: #8DC6FF66;
+}
+
+.c0 > span {
+  display: inline-block;
+}
+
+<div
+  class="c0"
+  data-testid="Tag"
+>
+  <span>
+    Tag
+  </span>
+  
+</div>
+`;

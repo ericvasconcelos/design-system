@@ -1,0 +1,111 @@
+import { Meta } from '@storybook/addon-docs/blocks'
+
+<Meta title="utils/DateUtils" />
+
+# DateUtils
+
+Conjunto de métodos para manipulação de datas.
+
+## toDate
+
+O método `toDate()` transforma uma string em um objeto Date.
+
+### Sintaxe
+
+```DateUtils.toDate(string, [format])```
+
+#### Parâmetros
+
+- `string`: data como string.
+- `format`: formato da data. Os valores possíveis são: pt-br e iso. Default: pt-br.
+
+#### Valor retornado
+
+Objeto do tipo Date.
+
+## toString
+
+O método `toString()` transforma um objeto Date em uma string.
+
+### Sintaxe
+
+```DateUtils.toString(date, [format])```
+
+#### Parâmetros
+
+- `date`: objeto Date.
+- `format`: formato para gerar a data. Os valores possíveis são: pt-br e iso. Default: pt-br.
+
+#### Valor retornado
+
+Data como string no formato solicitado.
+
+## validate
+
+O método `validate()` valida uma data.
+
+### Sintaxe
+
+```DateUtils.validate(date, [format])```
+
+#### Parâmetros
+
+- `date`: string representando a data.
+- `format`: formato da data. Os valores possíveis são: pt-br e iso. Default: pt-br.
+
+#### Valor retornado
+
+True, se a data for válida, caso contrário, False.
+
+## getAge
+
+O método `getAge()` retorna a idade em anos de acordo com a data.
+
+### Sintaxe
+
+```DateUtils.getAge(date)```
+
+#### Parâmetros
+
+- `date`: objeto Date.
+
+#### Valor retornado
+
+Inteiro representando os anos.
+
+#### Valor retornado
+
+True, se a data for válida, caso contrário, False.
+
+## convertMonthToYear
+
+O método `convertMonthToYear()` converte meses em anos.
+
+### Sintaxe
+
+```DateUtils.convertMonthToYear(month)```
+
+#### Parâmetros
+
+- `month`: valor inteiro de meses.
+
+#### Valor retornado
+
+Inteiro representando os anos.
+
+## formatPeriod
+
+O método `formatPeriod()` formata string de acordo com o valor.
+
+### Sintaxe
+
+```DateUtils.formatPeriod(period, periodType)```
+
+#### Parâmetros
+
+- `period`: valor inteiro.
+- `periodType`: string representando a unidade, sendo possível: monthly, yearly e daily.
+
+#### Valor retornado
+
+String formatada de acordo com os parâmetros.

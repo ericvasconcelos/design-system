@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "components/*": ["./src/components/*"],
+      "containers/*": ["./src/containers/*"],
+      "hooks/*": ["./src/hooks/*"],
+      "pages/*": ["./src/pages/*"],
+      "services/*": ["./src/services/*"],
+      "styles/*": ["./src/styles/*"],
+      "requests/*": ["./src/requests/*"],
+      "utils/*": ["./src/utils/*"],
+      "stories/*": ["./stories/*"],
+    }
+  },
+  "exclude": ["dist"]
+}

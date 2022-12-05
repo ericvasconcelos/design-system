@@ -1,0 +1,415 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the component correctly when has basic props 1`] = `
+.c2 {
+  color: #455A73;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #FFFFFF;
+  border: 2px solid #A6B5BB;
+  border-radius: 0.25rem;
+  display: inline-block;
+  position: relative;
+  padding: 10px;
+  margin-right: 1rem;
+}
+
+.c1[indeterminate] {
+  background-color: #01B36A;
+  border-color: #01B36A;
+}
+
+.c1[indeterminate]:after {
+  content: '';
+  width: 8px;
+  height: 2px;
+  background-color: #FFFFFF;
+  position: absolute;
+  top: 9px;
+  left: 6px;
+  border-radius: 0.25rem;
+}
+
+.c1:not([disabled]):hover,
+.c1:not([disabled]):focus {
+  border-color: #003FF2;
+  box-shadow: 0 0 0 4px #003FF23D;
+}
+
+.c1[checked] {
+  background-color: #01B36A;
+  border-color: #01B36A;
+}
+
+.c1[checked]:after {
+  content: ' ';
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/check-bold.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/check-bold.svg);
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  background-color: #FFFFFF;
+  width: 8px;
+  height: 6px;
+  position: absolute;
+  top: 7px;
+  left: 6px;
+}
+
+<form
+  action="#"
+>
+  <label
+    class="c0"
+    for="checkbox"
+  >
+    <input
+      class="c1"
+      id="checkbox"
+      name="checkbox"
+      type="checkbox"
+      value="false"
+    />
+    <span
+      class="c2"
+      data-testid="Text"
+    >
+      Checkbox
+    </span>
+  </label>
+</form>
+`;
+
+exports[`should render the component correctly when has checked initial value 1`] = `
+.c2 {
+  color: #455A73;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #FFFFFF;
+  border: 2px solid #A6B5BB;
+  border-radius: 0.25rem;
+  display: inline-block;
+  position: relative;
+  padding: 10px;
+  margin-right: 1rem;
+}
+
+.c1[indeterminate] {
+  background-color: #01B36A;
+  border-color: #01B36A;
+}
+
+.c1[indeterminate]:after {
+  content: '';
+  width: 8px;
+  height: 2px;
+  background-color: #FFFFFF;
+  position: absolute;
+  top: 9px;
+  left: 6px;
+  border-radius: 0.25rem;
+}
+
+.c1:not([disabled]):hover,
+.c1:not([disabled]):focus {
+  border-color: #003FF2;
+  box-shadow: 0 0 0 4px #003FF23D;
+}
+
+.c1[checked] {
+  background-color: #01B36A;
+  border-color: #01B36A;
+}
+
+.c1[checked]:after {
+  content: ' ';
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/check-bold.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/check-bold.svg);
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  background-color: #FFFFFF;
+  width: 8px;
+  height: 6px;
+  position: absolute;
+  top: 7px;
+  left: 6px;
+}
+
+<form
+  action="#"
+>
+  <label
+    class="c0"
+    for="checkbox"
+  >
+    <input
+      checked=""
+      class="c1"
+      id="checkbox"
+      name="checkbox"
+      type="checkbox"
+      value="true"
+    />
+    <span
+      class="c2"
+      data-testid="Text"
+    >
+      Checkbox
+    </span>
+  </label>
+</form>
+`;
+
+exports[`should render the component correctly when has disabled prop 1`] = `
+.c2 {
+  color: #455A73;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #69788C14;
+  border: 2px solid #69788C14;
+  border-radius: 0.25rem;
+  display: inline-block;
+  position: relative;
+  padding: 10px;
+  margin-right: 1rem;
+}
+
+.c1[indeterminate] {
+  background-color: #01B36A;
+  border-color: #01B36A;
+}
+
+.c1[indeterminate]:after {
+  content: '';
+  width: 8px;
+  height: 2px;
+  background-color: #FFFFFF;
+  position: absolute;
+  top: 9px;
+  left: 6px;
+  border-radius: 0.25rem;
+}
+
+.c1:not([disabled]):hover,
+.c1:not([disabled]):focus {
+  border-color: #003FF2;
+  box-shadow: 0 0 0 4px #003FF23D;
+}
+
+.c1[checked]:after {
+  content: ' ';
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/check-bold.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/check-bold.svg);
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  background-color: #69788C52;
+  width: 8px;
+  height: 6px;
+  position: absolute;
+  top: 7px;
+  left: 6px;
+}
+
+<form
+  action="#"
+>
+  <label
+    class="c0"
+    for="checkbox"
+  >
+    <input
+      class="c1"
+      disabled=""
+      id="checkbox"
+      name="checkbox"
+      type="checkbox"
+      value="false"
+    />
+    <span
+      class="c2"
+      data-testid="Text"
+    >
+      Checkbox
+    </span>
+  </label>
+</form>
+`;
+
+exports[`should render the component correctly when has indeterminate prop 1`] = `
+.c2 {
+  color: #455A73;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #FFFFFF;
+  border: 2px solid #A6B5BB;
+  border-radius: 0.25rem;
+  display: inline-block;
+  position: relative;
+  padding: 10px;
+  margin-right: 1rem;
+}
+
+.c1[indeterminate] {
+  background-color: #01B36A;
+  border-color: #01B36A;
+}
+
+.c1[indeterminate]:after {
+  content: '';
+  width: 8px;
+  height: 2px;
+  background-color: #FFFFFF;
+  position: absolute;
+  top: 9px;
+  left: 6px;
+  border-radius: 0.25rem;
+}
+
+.c1:not([disabled]):hover,
+.c1:not([disabled]):focus {
+  border-color: #003FF2;
+  box-shadow: 0 0 0 4px #003FF23D;
+}
+
+.c1[checked] {
+  background-color: #01B36A;
+  border-color: #01B36A;
+}
+
+.c1[checked]:after {
+  content: ' ';
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/check-bold.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/check-bold.svg);
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  background-color: #FFFFFF;
+  width: 8px;
+  height: 6px;
+  position: absolute;
+  top: 7px;
+  left: 6px;
+}
+
+<form
+  action="#"
+>
+  <label
+    class="c0"
+    for="checkbox"
+  >
+    <input
+      class="c1"
+      id="checkbox"
+      indeterminate=""
+      name="checkbox"
+      type="checkbox"
+      value="false"
+    />
+    <span
+      class="c2"
+      data-testid="Text"
+    >
+      Checkbox
+    </span>
+  </label>
+</form>
+`;

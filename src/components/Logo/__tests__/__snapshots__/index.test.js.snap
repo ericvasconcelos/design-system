@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo component render when Logo with alt and title custom render 1`] = `
+.c0 {
+  padding: 0;
+}
+
+<img
+  alt="Alt text"
+  class="c0"
+  data-testid="Logo"
+  decoding="async"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+  title="Title text"
+/>
+`;
+
+exports[`Logo component render when darkBlue no text render 1`] = `
+.c0 {
+  padding: 0;
+}
+
+<img
+  alt="Logo CashMe azul escuro sem texto"
+  class="c0"
+  data-testid="Logo"
+  decoding="async"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+  title="Logo CashMe azul escuro sem texto"
+/>
+`;
+
+exports[`Logo component render when darkBlue with text render 1`] = `
+.c0 {
+  padding: 0;
+}
+
+<img
+  alt="Logo CashMe azul escuro"
+  class="c0"
+  data-testid="Logo"
+  decoding="async"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+  title="Logo CashMe azul escuro"
+/>
+`;
+
+exports[`Logo component render when default render 1`] = `
+.c0 {
+  padding: 0;
+}
+
+<img
+  alt="Logo CashMe azul claro"
+  class="c0"
+  data-testid="Logo"
+  decoding="async"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+  title="Logo CashMe azul claro"
+/>
+`;
+
+exports[`Logo component render when lightBlue no text render 1`] = `
+.c0 {
+  padding: 0;
+}
+
+<img
+  alt="Logo CashMe azul claro sem texto"
+  class="c0"
+  data-testid="Logo"
+  decoding="async"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+  title="Logo CashMe azul claro sem texto"
+/>
+`;
+
+exports[`Logo component render when lightBlue with text render 1`] = `
+.c0 {
+  padding: 0;
+}
+
+<img
+  alt="Logo CashMe azul claro"
+  class="c0"
+  data-testid="Logo"
+  decoding="async"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+  title="Logo CashMe azul claro"
+/>
+`;
+
+exports[`Logo component render when white no text render 1`] = `
+.c0 {
+  padding: 0;
+}
+
+<img
+  alt="Logo CashMe branco sem texto"
+  class="c0"
+  data-testid="Logo"
+  decoding="async"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+  title="Logo CashMe branco sem texto"
+/>
+`;
+
+exports[`Logo component render when white with text render 1`] = `
+.c0 {
+  padding: 0;
+}
+
+<img
+  alt="Logo CashMe branco"
+  class="c0"
+  data-testid="Logo"
+  decoding="async"
+  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+  title="Logo CashMe branco"
+/>
+`;

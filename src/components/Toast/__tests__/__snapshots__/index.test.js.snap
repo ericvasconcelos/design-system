@@ -1,0 +1,400 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Toast Component component position top center is render 1`] = `
+.c1 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  position: fixed;
+  top: 1rem;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  z-index: 10;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background-color: #455A73;
+  border-radius: 8px;
+  -webkit-transition: top 0.5s;
+  transition: top 0.5s;
+  max-width: 450px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  class="c0"
+  data-testid="Toast"
+>
+  
+  <p
+    class="c1"
+    data-testid="Text"
+  >
+    Message
+  </p>
+</div>
+`;
+
+exports[`Toast Component component position top left is render 1`] = `
+.c1 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 10;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background-color: #455A73;
+  border-radius: 8px;
+  -webkit-transition: top 0.5s;
+  transition: top 0.5s;
+  max-width: 450px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  class="c0"
+  data-testid="Toast"
+>
+  
+  <p
+    class="c1"
+    data-testid="Text"
+  >
+    Message
+  </p>
+</div>
+`;
+
+exports[`Toast Component component styleType error and active is render 1`] = `
+.c1 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 10;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background-color: #FFCECE;
+  border-radius: 8px;
+  -webkit-transition: top 0.5s;
+  transition: top 0.5s;
+  max-width: 450px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  class="c0"
+  data-testid="Toast"
+>
+  
+  <p
+    class="c1"
+    data-testid="Text"
+  >
+    Message
+  </p>
+</div>
+`;
+
+exports[`Toast Component component styleType info and active is render 1`] = `
+.c1 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 10;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background-color: #455A73;
+  border-radius: 8px;
+  -webkit-transition: top 0.5s;
+  transition: top 0.5s;
+  max-width: 450px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  class="c0"
+  data-testid="Toast"
+>
+  
+  <p
+    class="c1"
+    data-testid="Text"
+  >
+    Message
+  </p>
+</div>
+`;
+
+exports[`Toast Component component styleType success and active is render 1`] = `
+.c1 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 10;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background-color: #01B36A;
+  border-radius: 8px;
+  -webkit-transition: top 0.5s;
+  transition: top 0.5s;
+  max-width: 450px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  class="c0"
+  data-testid="Toast"
+>
+  
+  <p
+    class="c1"
+    data-testid="Text"
+  >
+    Message
+  </p>
+</div>
+`;
+
+exports[`Toast Component component styleType success and inactive 1`] = `
+.c1 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0 {
+  color: #FFFFFF;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  position: fixed;
+  top: -100vh;
+  right: 1rem;
+  z-index: 10;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background-color: #01B36A;
+  border-radius: 8px;
+  -webkit-transition: top 0.5s;
+  transition: top 0.5s;
+  max-width: 450px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  class="c0"
+  data-testid="Toast"
+>
+  
+  <p
+    class="c1"
+    data-testid="Text"
+  >
+    Message
+  </p>
+</div>
+`;

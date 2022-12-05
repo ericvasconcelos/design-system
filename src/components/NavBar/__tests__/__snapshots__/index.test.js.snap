@@ -1,0 +1,1043 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the component correctly when user is logged in 1`] = `
+.c3 {
+  border: 2px solid undefined;
+  border-radius: 0.5rem;
+  background-color: none;
+  padding: 0;
+  color: #003FF2;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  width: auto;
+  text-align: left;
+  gap: 0.5rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  cursor: pointer;
+  height: 56px;
+  opacity: 1;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  text-transform: unset;
+}
+
+.c3 >div {
+  margin: none;
+}
+
+.c3:hover:enabled {
+  background-color: none;
+  border: 2px solid none;
+  color: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c3:active:enabled {
+  background-color: none;
+  border: 2px solid none;
+  color: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c3:active:enabled >div {
+  background: none;
+}
+
+.c8 {
+  border: 2px solid undefined;
+  border-radius: 0.5rem;
+  background-color: none;
+  padding: 0;
+  color: #00224B;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  width: auto;
+  text-align: left;
+  gap: 0.5rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  cursor: pointer;
+  height: 56px;
+  opacity: 1;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  text-transform: unset;
+}
+
+.c8 >div {
+  margin: none;
+}
+
+.c8:hover:enabled {
+  background-color: none;
+  border: 2px solid none;
+  color: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c8:active:enabled {
+  background-color: none;
+  border: 2px solid none;
+  color: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c8:active:enabled >div {
+  background: none;
+}
+
+.c9 {
+  border: 2px solid #00224B;
+  border-radius: 4rem;
+  background-color: transparent;
+  padding: 1rem 1.5rem;
+  color: #00224B;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  width: auto;
+  text-align: left;
+  gap: 0.5rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  cursor: pointer;
+  height: 56px;
+  opacity: 1;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  text-transform: unset;
+}
+
+.c9 >div {
+  margin: none;
+}
+
+.c9:hover:enabled {
+  background-color: #00224B;
+  border: 2px solid #00224B;
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c9:hover:enabled >div {
+  background: #FFFFFF;
+}
+
+.c9:active:enabled {
+  background-color: #455A73;
+  border: 2px solid #455A73;
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c9:active:enabled >div {
+  background: #FFFFFF;
+}
+
+.c5 {
+  padding: 0;
+}
+
+.c1 {
+  margin: auto;
+  width: 100%;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  list-style: none;
+  background: none;
+  gap: 1.5rem;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c4 {
+  grid-area: logo;
+}
+
+.c7 {
+  grid-area: list;
+  display: none;
+}
+
+.c10 {
+  grid-area: login;
+  display: none;
+}
+
+.c2 {
+  display: grid;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  height: 104px;
+  margin: auto;
+  background-color: white;
+  grid-template: 'logo list login' / 144px 3fr 224px;
+  gap: 3rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 {
+  background: white;
+  box-shadow: 0px 1px 0px rgba(51,51,51,0.08);
+  width: 100%;
+  margin: 0;
+}
+
+.c11 {
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/user-outline.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/user-outline.svg);
+  background-color: #00224B;
+  background-image: none;
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  -webkit-mask-position-x: 0;
+  mask-position-x: 0;
+  -webkit-mask-size: 24px;
+  mask-size: 24px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+@media (min-width:576px) {
+  .c1 {
+    width: 540px;
+  }
+}
+
+@media (min-width:768px) {
+  .c1 {
+    width: 720px;
+  }
+}
+
+@media (min-width:992px) {
+  .c1 {
+    width: 960px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    width: 1140px;
+  }
+}
+
+@media (min-width:1400px) {
+  .c1 {
+    width: 1320px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c7 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media (min-width:750px) {
+  .c10 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+<nav
+  class="c0"
+  data-testid="NavBar"
+>
+  <div
+    class="c1 c2"
+    data-testid="Container"
+  >
+    <a
+      class="c3 c4"
+      data-testid="Link"
+    >
+      <div
+        style="overflow: hidden; box-sizing: border-box; display: inline-block; position: relative; width: 126px; height: 24px;"
+      >
+        <noscript />
+        <img
+          alt="Logo CashMe azul claro"
+          class="c5"
+          data-testid="Logo"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          title="Logo CashMe azul claro"
+        />
+      </div>
+      
+    </a>
+    <ul
+      class="c6 c7"
+      data-testid="List"
+      id=""
+    >
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/"
+          id="emprestimo"
+        >
+          Empréstimos
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/condo/"
+          id="condo"
+        >
+          Condomínios
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/credito-para-construtoras/"
+          id="inc"
+        >
+          Incorporadoras
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/cashmember/"
+          id="parceiro"
+        >
+          Seja Parceiro
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/blog/"
+          id="blog"
+        >
+          Blog
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/fale-conosco/"
+          id="contato"
+        >
+          Fale conosco
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/quem-somos/"
+          id="about"
+        >
+          Sobre nós
+          
+        </a>
+      </li>
+    </ul>
+    <a
+      class="c9 c10"
+      data-testid="Link"
+      id="loginBtn"
+    >
+      Sair da minha conta
+      <div
+        aria-hidden="true"
+        aria-label=""
+        class="c11"
+        data-testid="Icon"
+      />
+    </a>
+  </div>
+</nav>
+`;
+
+exports[`should render the component correctly when user is not logged in 1`] = `
+.c3 {
+  border: 2px solid undefined;
+  border-radius: 0.5rem;
+  background-color: none;
+  padding: 0;
+  color: #003FF2;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  width: auto;
+  text-align: left;
+  gap: 0.5rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  cursor: pointer;
+  height: 56px;
+  opacity: 1;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  text-transform: unset;
+}
+
+.c3 >div {
+  margin: none;
+}
+
+.c3:hover:enabled {
+  background-color: none;
+  border: 2px solid none;
+  color: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c3:active:enabled {
+  background-color: none;
+  border: 2px solid none;
+  color: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c3:active:enabled >div {
+  background: none;
+}
+
+.c8 {
+  border: 2px solid undefined;
+  border-radius: 0.5rem;
+  background-color: none;
+  padding: 0;
+  color: #00224B;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  width: auto;
+  text-align: left;
+  gap: 0.5rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  cursor: pointer;
+  height: 56px;
+  opacity: 1;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  text-transform: unset;
+}
+
+.c8 >div {
+  margin: none;
+}
+
+.c8:hover:enabled {
+  background-color: none;
+  border: 2px solid none;
+  color: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c8:active:enabled {
+  background-color: none;
+  border: 2px solid none;
+  color: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c8:active:enabled >div {
+  background: none;
+}
+
+.c9 {
+  border: 2px solid #00224B;
+  border-radius: 4rem;
+  background-color: transparent;
+  padding: 1rem 1.5rem;
+  color: #00224B;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  width: auto;
+  text-align: left;
+  gap: 0.5rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  cursor: pointer;
+  height: 56px;
+  opacity: 1;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  text-transform: unset;
+}
+
+.c9 >div {
+  margin: none;
+}
+
+.c9:hover:enabled {
+  background-color: #00224B;
+  border: 2px solid #00224B;
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c9:hover:enabled >div {
+  background: #FFFFFF;
+}
+
+.c9:active:enabled {
+  background-color: #455A73;
+  border: 2px solid #455A73;
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c9:active:enabled >div {
+  background: #FFFFFF;
+}
+
+.c5 {
+  padding: 0;
+}
+
+.c1 {
+  margin: auto;
+  width: 100%;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  list-style: none;
+  background: none;
+  gap: 1.5rem;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #69788C;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.381rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c4 {
+  grid-area: logo;
+}
+
+.c7 {
+  grid-area: list;
+  display: none;
+}
+
+.c10 {
+  grid-area: login;
+  display: none;
+}
+
+.c2 {
+  display: grid;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  height: 104px;
+  margin: auto;
+  background-color: white;
+  grid-template: 'logo list login' / 144px 3fr 224px;
+  gap: 3rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 {
+  background: white;
+  box-shadow: 0px 1px 0px rgba(51,51,51,0.08);
+  width: 100%;
+  margin: 0;
+}
+
+.c11 {
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/user-outline.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/user-outline.svg);
+  background-color: #00224B;
+  background-image: none;
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  -webkit-mask-position-x: 0;
+  mask-position-x: 0;
+  -webkit-mask-size: 24px;
+  mask-size: 24px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+@media (min-width:576px) {
+  .c1 {
+    width: 540px;
+  }
+}
+
+@media (min-width:768px) {
+  .c1 {
+    width: 720px;
+  }
+}
+
+@media (min-width:992px) {
+  .c1 {
+    width: 960px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    width: 1140px;
+  }
+}
+
+@media (min-width:1400px) {
+  .c1 {
+    width: 1320px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c7 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media (min-width:750px) {
+  .c10 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+<nav
+  class="c0"
+  data-testid="NavBar"
+>
+  <div
+    class="c1 c2"
+    data-testid="Container"
+  >
+    <a
+      class="c3 c4"
+      data-testid="Link"
+    >
+      <div
+        style="overflow: hidden; box-sizing: border-box; display: inline-block; position: relative; width: 126px; height: 24px;"
+      >
+        <noscript />
+        <img
+          alt="Logo CashMe azul claro"
+          class="c5"
+          data-testid="Logo"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          title="Logo CashMe azul claro"
+        />
+      </div>
+      
+    </a>
+    <ul
+      class="c6 c7"
+      data-testid="List"
+      id=""
+    >
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/"
+          id="emprestimo"
+        >
+          Empréstimos
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/condo/"
+          id="condo"
+        >
+          Condomínios
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/credito-para-construtoras/"
+          id="inc"
+        >
+          Incorporadoras
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/cashmember/"
+          id="parceiro"
+        >
+          Seja Parceiro
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/blog/"
+          id="blog"
+        >
+          Blog
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/fale-conosco/"
+          id="contato"
+        >
+          Fale conosco
+          
+        </a>
+      </li>
+      <li
+        class=""
+      >
+        <a
+          class="c8"
+          data-testid="Link"
+          href="https://www.cashme.com.br/quem-somos/"
+          id="about"
+        >
+          Sobre nós
+          
+        </a>
+      </li>
+    </ul>
+    <a
+      class="c9 c10"
+      data-testid="Link"
+      id="loginBtn"
+    >
+      Acessar minha conta
+      <div
+        aria-hidden="true"
+        aria-label=""
+        class="c11"
+        data-testid="Icon"
+      />
+    </a>
+  </div>
+</nav>
+`;

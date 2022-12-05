@@ -1,0 +1,7 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+npx lint-staged
+yarn lint-all:css
+yarn lint-all:js
+yarn test:staged

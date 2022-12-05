@@ -1,0 +1,1609 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render DataTable Component when have collapse values 1`] = `
+.c5 {
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/chevron-down.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/chevron-down.svg);
+  background-color: #00224B;
+  background-image: none;
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  -webkit-mask-position-x: 0;
+  mask-position-x: 0;
+  -webkit-mask-size: 24px;
+  mask-size: 24px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.c11 {
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/chevron-down.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/chevron-down.svg);
+  background-color: #69788C;
+  background-image: none;
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  -webkit-mask-position-x: 0;
+  mask-position-x: 0;
+  -webkit-mask-size: 24px;
+  mask-size: 24px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.c1 {
+  border-collapse: separate;
+  width: 100%;
+  margin: auto;
+  border-spacing: 0 0.5rem;
+}
+
+.c1 td {
+  color: none;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c1 td:first-child,
+.c1 th:first-child {
+  border-radius: 8px 0 0 8px;
+}
+
+.c1 td:last-child,
+.c1 th:last-child {
+  border-radius: 0 8px 8px 0;
+}
+
+.c2 {
+  padding: 1rem;
+  position: relative;
+  cursor: auto;
+}
+
+.c4 {
+  padding: 1rem;
+  position: relative;
+  cursor: pointer;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+  text-align: left;
+  color: #00224B;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c6 {
+  width: 16px;
+  height: 16px;
+  -webkit-mask-size: 16px;
+  mask-size: 16px;
+  background: #00224B;
+}
+
+.c8 {
+  padding: 1rem;
+  text-align: left;
+  border: 1px solid transparent;
+  color: #00224B;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c8:focus {
+  border: 1px solid #8DC6FF;
+  box-shadow: 0 0 0 4px #003FF23D;
+}
+
+.c9 {
+  cursor: pointer;
+  padding: 0;
+  vertical-align: middle;
+  line-height: 0;
+  max-width: 80px;
+}
+
+.c7 {
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  display: table-row;
+  background-color: #FFFFFF;
+  border-top-left-radius: 10px;
+}
+
+.c12 {
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  display: none;
+  background-color: #FFFFFF;
+  border-top-left-radius: 10px;
+}
+
+.c10 {
+  cursor: pointer;
+}
+
+@media (max-width:1024px) {
+  .c0 {
+    overflow-x: auto;
+  }
+}
+
+<div
+  class="c0"
+  data-testid="DataTable"
+>
+  <table
+    aria-rowcount="10"
+    class="c1"
+    role="grid"
+  >
+    <thead>
+      <tr
+        role="row"
+      >
+        <th
+          class="c2"
+          id="header-header1"
+          role="columnheader"
+        >
+          <div
+            class="c3"
+          >
+            Header 1
+          </div>
+        </th>
+        <th
+          class="c4"
+          id="header-header2"
+          role="columnheader"
+        >
+          <div
+            class="c3"
+          >
+            Header 2
+            <div
+              aria-hidden="true"
+              aria-label=""
+              class="c5 c6"
+              data-testid="Icon"
+            />
+          </div>
+        </th>
+        <th
+          class="c4"
+          id="header-header3"
+          role="columnheader"
+        >
+          <div
+            class="c3"
+          >
+            Header 3
+            <div
+              aria-hidden="true"
+              aria-label=""
+              class="c5 c6"
+              data-testid="Icon"
+            />
+          </div>
+        </th>
+        <th
+          class="c2"
+          id="header-header4"
+          role="columnheader"
+        >
+          <div
+            class="c3"
+          >
+            Header 4
+          </div>
+        </th>
+        <th
+          class="c2"
+        />
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        aria-rowindex="0"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="0"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8 c9"
+          role="cell"
+          tabindex="-1"
+        >
+          <button
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              aria-hidden="false"
+              aria-label="expandir linha"
+              class="c11"
+              data-testid="Icon"
+              role="button"
+            />
+          </button>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="0"
+        class="c12"
+        role="row"
+      >
+        <td
+          class="c8"
+          colspan="5"
+        >
+          <div>
+            <p>
+              <strong>
+                Header 5
+              </strong>
+            </p>
+            <p>
+              Lorem Ipsum
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="1"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8 c9"
+          role="cell"
+          tabindex="-1"
+        >
+          <button
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              aria-hidden="false"
+              aria-label="expandir linha"
+              class="c11"
+              data-testid="Icon"
+              role="button"
+            />
+          </button>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="1"
+        class="c12"
+        role="row"
+      >
+        <td
+          class="c8"
+          colspan="5"
+        >
+          <div>
+            <p>
+              <strong>
+                Header 5
+              </strong>
+            </p>
+            <p>
+              Lorem Ipsum
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="2"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8 c9"
+          role="cell"
+          tabindex="-1"
+        >
+          <button
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              aria-hidden="false"
+              aria-label="expandir linha"
+              class="c11"
+              data-testid="Icon"
+              role="button"
+            />
+          </button>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="2"
+        class="c12"
+        role="row"
+      >
+        <td
+          class="c8"
+          colspan="5"
+        >
+          <div>
+            <p>
+              <strong>
+                Header 5
+              </strong>
+            </p>
+            <p>
+              Lorem Ipsum
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="3"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8 c9"
+          role="cell"
+          tabindex="-1"
+        >
+          <button
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              aria-hidden="false"
+              aria-label="expandir linha"
+              class="c11"
+              data-testid="Icon"
+              role="button"
+            />
+          </button>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="3"
+        class="c12"
+        role="row"
+      >
+        <td
+          class="c8"
+          colspan="5"
+        >
+          <div>
+            <p>
+              <strong>
+                Header 5
+              </strong>
+            </p>
+            <p>
+              Lorem Ipsum
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="4"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8 c9"
+          role="cell"
+          tabindex="-1"
+        >
+          <button
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              aria-hidden="false"
+              aria-label="expandir linha"
+              class="c11"
+              data-testid="Icon"
+              role="button"
+            />
+          </button>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="4"
+        class="c12"
+        role="row"
+      >
+        <td
+          class="c8"
+          colspan="5"
+        >
+          <div>
+            <p>
+              <strong>
+                Header 5
+              </strong>
+            </p>
+            <p>
+              Lorem Ipsum
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="5"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8 c9"
+          role="cell"
+          tabindex="-1"
+        >
+          <button
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              aria-hidden="false"
+              aria-label="expandir linha"
+              class="c11"
+              data-testid="Icon"
+              role="button"
+            />
+          </button>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="5"
+        class="c12"
+        role="row"
+      >
+        <td
+          class="c8"
+          colspan="5"
+        >
+          <div>
+            <p>
+              <strong>
+                Header 5
+              </strong>
+            </p>
+            <p>
+              Lorem Ipsum
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="6"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8 c9"
+          role="cell"
+          tabindex="-1"
+        >
+          <button
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              aria-hidden="false"
+              aria-label="expandir linha"
+              class="c11"
+              data-testid="Icon"
+              role="button"
+            />
+          </button>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="6"
+        class="c12"
+        role="row"
+      >
+        <td
+          class="c8"
+          colspan="5"
+        >
+          <div>
+            <p>
+              <strong>
+                Header 5
+              </strong>
+            </p>
+            <p>
+              Lorem Ipsum
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="7"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8 c9"
+          role="cell"
+          tabindex="-1"
+        >
+          <button
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              aria-hidden="false"
+              aria-label="expandir linha"
+              class="c11"
+              data-testid="Icon"
+              role="button"
+            />
+          </button>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="7"
+        class="c12"
+        role="row"
+      >
+        <td
+          class="c8"
+          colspan="5"
+        >
+          <div>
+            <p>
+              <strong>
+                Header 5
+              </strong>
+            </p>
+            <p>
+              Lorem Ipsum
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="8"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8 c9"
+          role="cell"
+          tabindex="-1"
+        >
+          <button
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              aria-hidden="false"
+              aria-label="expandir linha"
+              class="c11"
+              data-testid="Icon"
+              role="button"
+            />
+          </button>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="8"
+        class="c12"
+        role="row"
+      >
+        <td
+          class="c8"
+          colspan="5"
+        >
+          <div>
+            <p>
+              <strong>
+                Header 5
+              </strong>
+            </p>
+            <p>
+              Lorem Ipsum
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="9"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8 c9"
+          role="cell"
+          tabindex="-1"
+        >
+          <button
+            class="c10"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              aria-hidden="false"
+              aria-label="expandir linha"
+              class="c11"
+              data-testid="Icon"
+              role="button"
+            />
+          </button>
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="9"
+        class="c12"
+        role="row"
+      >
+        <td
+          class="c8"
+          colspan="5"
+        >
+          <div>
+            <p>
+              <strong>
+                Header 5
+              </strong>
+            </p>
+            <p>
+              Lorem Ipsum
+            </p>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Render DataTable Component when have common values 1`] = `
+.c5 {
+  -webkit-mask-image: url(https://qa-static.cashme.com.br/icons/chevron-down.svg);
+  mask-image: url(https://qa-static.cashme.com.br/icons/chevron-down.svg);
+  background-color: #00224B;
+  background-image: none;
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  -webkit-mask-position-x: 0;
+  mask-position-x: 0;
+  -webkit-mask-size: 24px;
+  mask-size: 24px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.c1 {
+  border-collapse: separate;
+  width: 100%;
+  margin: auto;
+  border-spacing: 0 0.5rem;
+}
+
+.c1 td {
+  color: none;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c1 td:first-child,
+.c1 th:first-child {
+  border-radius: 8px 0 0 8px;
+}
+
+.c1 td:last-child,
+.c1 th:last-child {
+  border-radius: 0 8px 8px 0;
+}
+
+.c2 {
+  padding: 1rem;
+  position: relative;
+  cursor: auto;
+}
+
+.c4 {
+  padding: 1rem;
+  position: relative;
+  cursor: pointer;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+  text-align: left;
+  color: #00224B;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c6 {
+  width: 16px;
+  height: 16px;
+  -webkit-mask-size: 16px;
+  mask-size: 16px;
+  background: #00224B;
+}
+
+.c8 {
+  padding: 1rem;
+  text-align: left;
+  border: 1px solid transparent;
+  color: #00224B;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c8:focus {
+  border: 1px solid #8DC6FF;
+  box-shadow: 0 0 0 4px #003FF23D;
+}
+
+.c7 {
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  display: table-row;
+  background-color: #FFFFFF;
+  border-top-left-radius: 10px;
+}
+
+@media (max-width:1024px) {
+  .c0 {
+    overflow-x: auto;
+  }
+}
+
+<div
+  class="c0"
+  data-testid="DataTable"
+>
+  <table
+    aria-rowcount="10"
+    class="c1"
+    role="grid"
+  >
+    <thead>
+      <tr
+        role="row"
+      >
+        <th
+          class="c2"
+          id="header-header1"
+          role="columnheader"
+        >
+          <div
+            class="c3"
+          >
+            Header 1
+          </div>
+        </th>
+        <th
+          class="c4"
+          id="header-header2"
+          role="columnheader"
+        >
+          <div
+            class="c3"
+          >
+            Header 2
+            <div
+              aria-hidden="true"
+              aria-label=""
+              class="c5 c6"
+              data-testid="Icon"
+            />
+          </div>
+        </th>
+        <th
+          class="c4"
+          id="header-header3"
+          role="columnheader"
+        >
+          <div
+            class="c3"
+          >
+            Header 3
+            <div
+              aria-hidden="true"
+              aria-label=""
+              class="c5 c6"
+              data-testid="Icon"
+            />
+          </div>
+        </th>
+        <th
+          class="c2"
+          id="header-header4"
+          role="columnheader"
+        >
+          <div
+            class="c3"
+          >
+            Header 4
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        aria-rowindex="0"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="0"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="1"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="2"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="3"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="4"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="5"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="6"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="7"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="8"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+      </tr>
+      <tr
+        aria-rowindex="9"
+        class="c7"
+        role="row"
+      >
+        <td
+          class="c8"
+          headers="header-header1"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+        <td
+          class="c8"
+          headers="header-header2"
+          role="cell"
+          tabindex="-1"
+        >
+          R$ 1000
+        </td>
+        <td
+          class="c8"
+          headers="header-header3"
+          role="cell"
+          tabindex="-1"
+        >
+          Label
+        </td>
+        <td
+          class="c8"
+          headers="header-header4"
+          role="cell"
+          tabindex="-1"
+        >
+          lorem ipsum
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

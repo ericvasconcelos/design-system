@@ -1,0 +1,31 @@
+name: 'Prepare'
+
+on:
+  push:
+    branches:
+      - 'release/**'
+    branches-ignores:
+      - 'master'
+
+jobs:
+  prepare:
+    name: 'Prepare to pubish'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 'Checkout source code'
+        uses: 'actions/checkout@v2'
+        with:
+          ref: ${{ github.ref }}
+
+      - name: 'Setup Node.js'
+        uses: 'actions/setup-node@v1'
+        with:
+          node-version: 16
+
+      - name: Prepare
+        run: yarn
+      - name: 'Publish package'
+        run: |
+          echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGE_TOKEN }}" > ~/.npmrc
+          yarn publish --tag beta

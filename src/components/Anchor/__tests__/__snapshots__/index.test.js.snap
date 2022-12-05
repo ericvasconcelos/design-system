@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the component correctly when has basic props 1`] = `
+.c0 {
+  border: 2px solid undefined;
+  border-radius: 0.5rem;
+  background-color: none;
+  padding: 0;
+  color: #003FF2;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+  width: auto;
+  text-align: left;
+  gap: 0.5rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  cursor: pointer;
+  height: 56px;
+  opacity: 1;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  text-transform: unset;
+}
+
+.c0 >div {
+  margin: none;
+}
+
+.c0:hover:enabled {
+  background-color: none;
+  border: 2px solid none;
+  color: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0:active:enabled {
+  background-color: none;
+  border: 2px solid none;
+  color: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+.c0:active:enabled >div {
+  background: none;
+}
+
+<a
+  class="c0"
+  data-testid="Link"
+>
+  Test
+  
+</a>
+`;

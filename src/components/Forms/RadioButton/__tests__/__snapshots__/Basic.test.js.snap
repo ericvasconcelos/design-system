@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the component correctly when has basic props 1`] = `
+.c0 {
+  color: #69788C;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<p
+  class="c0"
+  data-testid="Text"
+>
+  Example
+</p>
+`;
+
+exports[`should render the component correctly when has checked prop 1`] = `
+.c0 {
+  color: #69788C;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<p
+  class="c0"
+  data-testid="Text"
+>
+  Example
+</p>
+`;
+
+exports[`should render the component correctly when has disabled prop 1`] = `
+.c0 {
+  color: #69788C;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<p
+  class="c0"
+  data-testid="Text"
+>
+  Example
+</p>
+`;
+
+exports[`should render the component correctly when has messageError prop 1`] = `
+.c0 {
+  color: #69788C;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.219rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-letter-spacing: 0rem;
+  -moz-letter-spacing: 0rem;
+  -ms-letter-spacing: 0rem;
+  letter-spacing: 0rem;
+  font-family: 'DM Sans',sans-serif;
+}
+
+<p
+  class="c0"
+  data-testid="Text"
+>
+  Example
+</p>
+`;
