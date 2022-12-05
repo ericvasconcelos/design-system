@@ -1,5 +1,5 @@
 {
-  "name": "@cash-me/design-system",
+  "name": "@ericvasconcelos/design-system",
   "version": "3.0.5",
   "description": "Biblioteca com os componentes em React para o frontend",
   "main": "dist/bundle.js",
@@ -29,16 +29,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/cash-me/design-system.git"
+    "url": "git+ssh://git@github.com/ericvasconcelos/design-system.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cash-me/design-system/issues"
+    "url": "https://github.com/ericvasconcelos/design-system/issues"
   },
-  "homepage": "https://github.com/cash-me/design-system#readme",
+  "homepage": "https://github.com/ericvasconcelos/design-system#readme",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.13",

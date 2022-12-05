@@ -1,7 +1,0 @@
-#!/bin/sh
-. "$(dirname "$0")/_/husky.sh"
-
-yarn badges
-git add badges/badge-*
-yarn lint:css
-yarn lint:js
